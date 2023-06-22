@@ -1,7 +1,7 @@
 
 # Deploying a Java-based Web Application Using AWS Services
 
-This repository contains code and configuration files for deploying a Java-based web application using various AWS services, including Elastic Beanstalk, RDS, ElastiCache, AmazonMQ, Route 53, CloudFront, CloudWatch, load balancing, and auto scaling group.
+This repository contains code and configuration files for deploying a Java-based web application using various AWS services, including Elastic Beanstalk, RDS, ElastiCache, AmazonMQ, Route 53, CloudFront, CloudWatch, load balancing, and auto-scaling group.
 
 ## Prerequisites
 
